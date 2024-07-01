@@ -15,15 +15,11 @@ https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-co
 
 <b>Petugas Perpus : </b>
 <br/>
-Username : anang
+Username : oktarisa
 <br/>
 Password : 123
 
-<b>Anggota Perpus :</b>
-<br/>
-Username : fauzan
-<br/>
-Password : 123
+
 
 ** Jika ada issues atau revisi atau menambahkan fitur silahkan pull request di repository ini
 
